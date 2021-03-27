@@ -8,6 +8,7 @@
   <li><a href='#dataset'>Dataset</a></li>
   <li><a href='#skill'>Key Skills</a></li>
   <li><a href='#overview'>Overview</a></li>
+  <li><a href='#flask'>Flask App running on Local Machine</a></li>
   <li><a href='#references'>References</a></li>
   
 </ul> 
@@ -52,14 +53,25 @@
   
 </p>
 
-
+<br>
 
 
 <h2 id = 'overview'> Overview of Approach Post EDA </h2>
 <p>
 
 <p>
-    <img src="Images/Overview.PNG" width=589, height=736>
+    <img src="Images/Overview.PNG" width=550, height=736>
  
 </p>  
+
+
+<h2 id = 'flask'> Flask App running on Local Machine </h2>
+<p>
+
+<p>
+    <img src="Images/flask1.PNG" width=550, height=800>
+    <img src="Images/flask2.PNG" width=550, height=800>
+ 
+</p>  
+
 
