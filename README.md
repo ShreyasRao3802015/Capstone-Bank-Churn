@@ -40,6 +40,7 @@
   I have obtained the dataset from Kaggle (<a href= 'https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers?select=Churn_Modelling.csv'>Predicting Churn for Bank Customers</a>). It consists of 10000 observations and 12 variables. Independent variables contain information about customers. Dependent variable refers to customer status.
 </p>
 
+<br>
 
 <h3 id = 'skill'>Key Skills</h2>
 <p>
