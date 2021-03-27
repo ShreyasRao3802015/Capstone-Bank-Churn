@@ -58,7 +58,7 @@
 <p>
 
 <p>
-    <img src="Images/1.jpg" width=200, height=450>
+    <img src="Images/Overview.jpg" width=200, height=450>
  
 </p>  
 
