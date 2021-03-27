@@ -6,8 +6,8 @@
 <ul>
   <li><a href='#motivation'>Motivation</a></li>
   <li><a href='#dataset'>Dataset</a></li>
+  <li><a href='#skill'>Key Skills</a></li>
   <li><a href='#overview'>Overview</a></li>
-  <li><a href='#credits'>Credits</a></li>
   <li><a href='#references'>References</a></li>
   
 </ul> 
@@ -35,54 +35,30 @@
 <br>
 
 
-<h3 id = 'dataset'> Dataset </h2>
+<h3 id = 'dataset'>Dataset</h2>
 <p>
-  I have obtained the dataset from Kaggle (<a href= 'https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers?select=Churn_Modelling.csv'>Predicting Churn for Bank Customers</a>)
+  I have obtained the dataset from Kaggle (<a href= 'https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers?select=Churn_Modelling.csv'>Predicting Churn for Bank Customers</a>). It consists of 10000 observations and 12 variables. Independent variables contain information about customers. Dependent variable refers to customer status.
+</p>
+
+
+<h3 id = 'skill'>Key Skills</h2>
+<p>
+  <li>Exploratory Data Analysis</li>
+  <li>Data understanding and data engineering</li>
+  <li>Building Scikit-Learn Custom Transformers for Data Processing</li>
+  <li>Model building and result interpretation</li>
+  <li>Flask – Web Framework</li>
+  
 </p>
 
 
 
-<h2 id = 'overview'> Overview </h2>
+
+<h2 id = 'overview'> Overview of Approach Post EDA </h2>
 <p>
 
 <p>
     <img src="Images/1.jpg" width=200, height=450>
- &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp 
-  <img src="Images/2.jpg" width=200, height=450>
-   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp 
-  <img src="Images/3.jpg" width=200, height=450>
+ 
 </p>  
-
-<h3>4) Let's Start! :</h3>
-<p>
-    <img src="Images/5.jpg" width=200, height=450>
- &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp 
-  <img src="Images/6.jpg" width=200, height=450>
-</p> 
-
-</p>
-
-
-<br>
-
-
-
-
-
-
-<h2 id = 'credits'> Credits </h2>
-<p>
-<ul>  
-  <li>Since this is my first project using Python's Kivy Framework, I relied on <a href= 'https://www.youtube.com/channel/UCMMitT9SCbWlEcEkemnsxQg'>Eric Sandberg's YouTube Channel</a> to learn the ropes!
-  </li>
- 
- <br>
-  
-  <li>I would also like to mention <a href= 'https://www.geeksforgeeks.org/backtracking-algorithms/'>GeeksForGeeks</a> referring which I understood how Back Tracking Algorithm can be leveraged in various situations.
-  </li>
-  
-  </ul>
-
- 
-</p>
 
