@@ -70,7 +70,7 @@
 
 <p>
     <img src="Images/flask1.PNG" width=550, height=800>
-    <img src="Images/flask2.PNG" width=550, height=800>
+    <img src="Images/flask2.PNG" width=1040, height=308>
  
 </p>  
 
