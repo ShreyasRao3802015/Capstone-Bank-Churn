@@ -9,7 +9,6 @@
   <li><a href='#skill'>Key Skills</a></li>
   <li><a href='#overview'>Overview</a></li>
   <li><a href='#flask'>Flask App running on Local Machine</a></li>
-  <li><a href='#references'>References</a></li>
   
 </ul> 
 <br>
